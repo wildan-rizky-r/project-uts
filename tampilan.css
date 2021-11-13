@@ -1,0 +1,132 @@
+h3{
+	text-align: center;
+	padding: 20px;
+	background-color: black;
+	color: ghostwhite;
+	margin-top: 0px;
+	font-size: 25px;
+}
+
+nav{
+	width: 100%;
+	text-align: center;
+	margin: auto;
+	margin-top: -43px;
+}
+
+nav ul{
+	width: 100%;
+	background-color: black;
+	display: inline-table;
+	position: relative;
+	list-style: none;
+	padding: 0px;
+}
+
+nav ul li{
+	float: left;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+nav ul li:hover{
+	background-color: silver;
+}
+
+nav ul li a{
+	display: block;
+	color: ghostwhite;
+	padding: 10px;
+	text-decoration: none;
+}
+
+table{
+	width: 100%;
+	padding: 0px;
+	margin: auto;
+	margin-top: -15px;
+	border-bottom: 5px solid black;
+}
+
+th{
+	background-color: lightblue;
+	padding: 10px;
+	margin: auto;
+}
+
+tr{
+	background-color: ghostwhite;
+}
+
+tr:nth-child(2n+0){
+	background-color: aliceblue;
+}
+
+td{
+	height: 30px;
+	padding-left: 20px
+}
+
+.hapus{
+	background-color: red;
+	border-radius: 5px;
+	color: ghostwhite;
+	padding: 5px;
+	font-size: 15px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.hapus:hover{
+	background-color: darkred;
+}
+
+.ubah{
+	background-color: blue;
+	border-radius: 5px;
+	color: ghostwhite;
+	padding: 5px;
+	font-size: 15px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.ubah:hover{
+	background-color: darkblue;
+}
+
+.simpan{
+	background-color: green;
+	border-radius: 5px;
+	color: ghostwhite;
+	padding: 5px;
+	font-size: 15px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.simpan:hover{
+	background-color: darkgreen;
+}
+
+.it{
+	width: 250px;
+	margin: 10px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+
+}
+
+.tambah{
+	text-align: left;
+	width: 100%;
+	margin: auto;
+	background-color: ghostwhite;
+	display: inline-table;
+	margin-top: -30px;
+	padding: 6px;
+	font-size: 17px;
+	font-family: initial;
+	border-bottom: 3px solid black;
+
+}
